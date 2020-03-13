@@ -1,0 +1,266 @@
+<?xml version="1.0"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="unknown"/>
+    <meta name="dtb:depth" content="3"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>No title provided.</text>
+  </docTitle>
+  <navMap>    
+    <navPoint id="navPoint1" playOrder="1">
+      <navLabel>
+        <text>Particle physics</text>
+      </navLabel>
+      <content src="index.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint2" playOrder="2">
+      <navLabel>
+        <text>1  Particle physics in context</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_01.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint3" playOrder="3">
+      <navLabel>
+        <text>2  Leptons</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_02.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint4" playOrder="4">
+      <navLabel>
+        <text>3  Quarks</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_03.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint5" playOrder="5">
+      <navLabel>
+        <text>4  Hadrons</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_04.xhtml" />  
+      <navPoint id="navPoint6" playOrder="5">
+        <navLabel>
+          <text>4  Hadrons</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_04.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint7" playOrder="6">
+        <navLabel>
+          <text>4.1 Building a hadron</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_04.xhtml#4.1-Building-a-hadron" />  
+        <navPoint id="navPoint8" playOrder="6">
+          <navLabel>
+            <text>4.1 Building a hadron</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#4.1-Building-a-hadron" />  
+        </navPoint>
+        <navPoint id="navPoint9" playOrder="7">
+          <navLabel>
+            <text>Activity 1 The quark fruit machine</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_04.xhtml#Activity-1 The-quark-fruit-machine" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint10" playOrder="8">
+      <navLabel>
+        <text>5  High-energy reactions</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_05.xhtml" />  
+      <navPoint id="navPoint11" playOrder="8">
+        <navLabel>
+          <text>5  High-energy reactions</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_05.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint12" playOrder="9">
+        <navLabel>
+          <text>Question</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_05.xhtml#Question" />  
+      </navPoint>
+      <navPoint id="navPoint13" playOrder="10">
+        <navLabel>
+          <text>Answer</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_05.xhtml#Answer" />  
+      </navPoint>
+      <navPoint id="navPoint14" playOrder="11">
+        <navLabel>
+          <text>Question</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_05.xhtml#id1" />  
+      </navPoint>
+      <navPoint id="navPoint15" playOrder="12">
+        <navLabel>
+          <text>Answer</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_05.xhtml#id2" />  
+        <navPoint id="navPoint16" playOrder="12">
+          <navLabel>
+            <text>Answer</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_05.xhtml#id2" />  
+        </navPoint>
+        <navPoint id="navPoint17" playOrder="13">
+          <navLabel>
+            <text>Activity 2 Run your own particle accelerator</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_05.xhtml#Activity-2 Run-your-own-particle-accelerator" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint18" playOrder="14">
+        <navLabel>
+          <text>Question</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_05.xhtml#id3" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint19" playOrder="15">
+      <navLabel>
+        <text>6  Strong interactions</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_06.xhtml" />  
+      <navPoint id="navPoint20" playOrder="15">
+        <navLabel>
+          <text>6  Strong interactions</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_06.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint21" playOrder="16">
+        <navLabel>
+          <text>6.1  Gluons</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_06.xhtml#6.1  Gluons" />  
+      </navPoint>
+      <navPoint id="navPoint22" playOrder="17">
+        <navLabel>
+          <text>6.2  Quantum chromodynamics</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_06.xhtml#6.2  Quantum-chromodynamics" />  
+        <navPoint id="navPoint23" playOrder="17">
+          <navLabel>
+            <text>6.2  Quantum chromodynamics</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_06.xhtml#6.2  Quantum-chromodynamics" />  
+        </navPoint>
+        <navPoint id="navPoint24" playOrder="18">
+          <navLabel>
+            <text>Question</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_06.xhtml#Question" />  
+        </navPoint>
+        <navPoint id="navPoint25" playOrder="19">
+          <navLabel>
+            <text>Answer</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_06.xhtml#Answer" />  
+        </navPoint>
+        <navPoint id="navPoint26" playOrder="20">
+          <navLabel>
+            <text>Question</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_06.xhtml#id1" />  
+        </navPoint>
+        <navPoint id="navPoint27" playOrder="21">
+          <navLabel>
+            <text>Answer</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_06.xhtml#id2" />  
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint28" playOrder="22">
+      <navLabel>
+        <text>7  Beta-decay at the level of quarks and leptons</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_07.xhtml" />  
+      <navPoint id="navPoint29" playOrder="22">
+        <navLabel>
+          <text>7  Beta-decay at the level of quarks and leptons</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_07.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint30" playOrder="23">
+        <navLabel>
+          <text>Question</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_07.xhtml#Question" />  
+      </navPoint>
+      <navPoint id="navPoint31" playOrder="24">
+        <navLabel>
+          <text>Answer</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_07.xhtml#Answer" />  
+      </navPoint>
+      <navPoint id="navPoint32" playOrder="25">
+        <navLabel>
+          <text>Question</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_07.xhtml#id1" />  
+      </navPoint>
+      <navPoint id="navPoint33" playOrder="26">
+        <navLabel>
+          <text>Answer</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_07.xhtml#id2" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint34" playOrder="27">
+      <navLabel>
+        <text>8  Weak interactions</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_08.xhtml" />  
+      <navPoint id="navPoint35" playOrder="27">
+        <navLabel>
+          <text>8  Weak interactions</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_08.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint36" playOrder="28">
+        <navLabel>
+          <text>8.1 W and Z bosons</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_08.xhtml#8.1 W-and-Z-bosons" />  
+        <navPoint id="navPoint37" playOrder="28">
+          <navLabel>
+            <text>8.1 W and Z bosons</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_08.xhtml#8.1 W-and-Z-bosons" />  
+        </navPoint>
+        <navPoint id="navPoint38" playOrder="29">
+          <navLabel>
+            <text>Question</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_08.xhtml#Question" />  
+        </navPoint>
+        <navPoint id="navPoint39" playOrder="30">
+          <navLabel>
+            <text>Answer</text>
+          </navLabel>
+          <content src="content/session_00/Part_00_08.xhtml#Answer" />  
+        </navPoint>
+      </navPoint>
+      <navPoint id="navPoint40" playOrder="31">
+        <navLabel>
+          <text>8.2 The survival of the neutron</text>
+        </navLabel>
+        <content src="content/session_00/Part_00_08.xhtml#8.2 The-survival-of-the-neutron" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint41" playOrder="32">
+      <navLabel>
+        <text>Conclusion</text>
+      </navLabel>
+      <content src="content/session_00/Part_00_09.xhtml" />  
+    </navPoint>
+    <navPoint id="navPoint42" playOrder="33">
+      <navLabel>
+        <text>Glossary</text>
+      </navLabel>
+      <content src="content/session_01/Part_01_glossary.xhtml" />  
+    </navPoint>
+  </navMap>
+</ncx>
